@@ -1,7 +1,15 @@
-*.class
+#Apple File System stuff
+.DS_Store
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# IntelliJ
+.idea
+*.iml
+*.iws
+*.ipr
+
+
+# Java fun
+*.class
 
 # Package Files #
 *.jar
